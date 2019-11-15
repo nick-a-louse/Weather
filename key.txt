@@ -1,0 +1,2 @@
+Google Geocode API Key here
+MeteoStat API Key here
